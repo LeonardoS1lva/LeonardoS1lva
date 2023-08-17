@@ -27,6 +27,8 @@
    <img align="center" alt="VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">  
   <img align="center" alt="Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+   <img align="center" alt="AndroidStudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
+   <img align="center" alt="Gimp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg">
 </div>
 
    ##
@@ -36,6 +38,7 @@
 <div>
    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
   
   ##
@@ -43,7 +46,9 @@
 ### Redes Sociais
 
 <div>
-  <a href="https://www.linkedin.com/in/leonardos1lva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leonardos1lva/" target="_blank">
+     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
 </div>
 
    ##
