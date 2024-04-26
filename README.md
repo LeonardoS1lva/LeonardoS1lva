@@ -55,4 +55,4 @@
 
 ### Veja meu portifólio clicando no link abaixo :)
 
-###   https://leonardos1lva.github.io/portifolio/
+###   https://leonardos1lva.github.io/portfolio/
