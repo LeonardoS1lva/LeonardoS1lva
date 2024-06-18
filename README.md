@@ -53,6 +53,6 @@
 
    ##
 
-### Veja meu portifólio clicando no link abaixo :)
+### Veja meu portfolio clicando no link abaixo :)
 
-###   https://leonardos1lva.github.io/portfolio/
+###   <a href="https://leonardos1lva.github.io/portfolio/" target="_blank">Meu portfolio :)</a>
