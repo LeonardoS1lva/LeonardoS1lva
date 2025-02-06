@@ -70,4 +70,4 @@
 
 ###   <a href="https://leonardos1lva.github.io/portfolio/" target="_blank">Meu portfolio :)</a>
 
-![snake animation](https://github.com/LeonardoS1lva/LeonardoS1lva/blob/output/github-contribution-grid-snake2.svg)
+<!-- ![snake animation](https://github.com/LeonardoS1lva/LeonardoS1lva/blob/output/github-contribution-grid-snake2.svg) ->
